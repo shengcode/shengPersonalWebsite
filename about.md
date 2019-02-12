@@ -3,6 +3,7 @@ layout: page
 title: About
 ---
 
+this is the about page where is the other ones
 This is an about page about this awesome site.
 Hope you love it!
 
